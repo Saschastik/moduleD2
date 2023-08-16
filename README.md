@@ -1,4 +1,4 @@
-# moduleD2
+В папке NewsPaper есть более легкочитаемый файл с командами shell - commands.txt
 Миграции
 (venv) PS C:\Users\user\PycharmProjects\pythonProject\D\D2\NewsPaper> py manage.py makemigrations
 (venv) PS C:\Users\user\PycharmProjects\pythonProject\D\D2\NewsPaper> py manage.py migrate
